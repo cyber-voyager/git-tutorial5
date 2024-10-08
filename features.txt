@@ -1,1 +1,1 @@
-feature 2
+Both feature 1 & 2!
